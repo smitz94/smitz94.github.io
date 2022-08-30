@@ -235,11 +235,11 @@ languageName = "English"
       social = true
       # disclaimer (HTML format is supported)
       # 免责声明 (支持 HTML 格式)
-      disclaimer = "This website is reflection of my professional journey, experience, mistakes I have made and been making, the corrections i did and still doing to improve and to grow. This is somewhat for my personal benefit and attract relevant people to learn from and improve and partly to give back to the community from which I have learnt so much. This is analogous to book keeping and my work portfolio. If it will help someone I will be really happy."
+      disclaimer = ""
     # Home page posts
     # 主页文章列表
     [params.home.posts]
-      enable = false
+      enable = true
       # special amount of posts in each home posts page
       # 主页每页显示文章数量
       paginate = 6
